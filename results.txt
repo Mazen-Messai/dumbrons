@@ -1,0 +1,10 @@
+===== First run =====
+Hyperparameters:
+- Hidden layers : 128, 24
+- Hidden layers activation function: sigmoid
+- Learning rate: 0.01
+- Batch size : 32
+- Epochs : 10
+
+Results:
+- Accuracy : 74.5%

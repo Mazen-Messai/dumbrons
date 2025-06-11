@@ -1,0 +1,4 @@
+/Users/mazen/projets/dumbrons/cmake-build-debug/CMakeFiles/testmatrix.dir
+/Users/mazen/projets/dumbrons/cmake-build-debug/CMakeFiles/dumbrons.dir
+/Users/mazen/projets/dumbrons/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mazen/projets/dumbrons/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -17,10 +17,7 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated>
-      <config projectName="dumbrons" targetName="dumbrons" />
-      <config projectName="dumbrons" targetName="testmatrix" />
-    </generated>
+    <generated />
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
@@ -28,7 +25,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="762e2cfa-a19c-48c6-99ee-7e550ed71d96" name="Changes" comment="" />
+    <list default="true" id="762e2cfa-a19c-48c6-99ee-7e550ed71d96" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,21 +89,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.dumbrons">
+  <component name="RunManager" selected="C/C++ File.testmatrix.cpp">
     <configuration name="dumbrons" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
     </configuration>
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dumbrons" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dumbrons" TARGET_NAME="dumbrons" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="dumbrons" RUN_TARGET_NAME="dumbrons">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testmatrix" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dumbrons" TARGET_NAME="testmatrix" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="dumbrons" RUN_TARGET_NAME="testmatrix">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -117,8 +106,6 @@
     </configuration>
     <list>
       <item itemvalue="C/C++ File.testmatrix.cpp" />
-      <item itemvalue="CMake Application.dumbrons" />
-      <item itemvalue="CMake Application.testmatrix" />
       <item itemvalue="CMake Debug.dumbrons" />
     </list>
     <recent_temporary>
@@ -139,7 +126,7 @@
       <workItem from="1749420230328" duration="1232000" />
       <workItem from="1749471322412" duration="734000" />
       <workItem from="1749472176979" duration="3403000" />
-      <workItem from="1749638065525" duration="13617000" />
+      <workItem from="1749638065525" duration="13832000" />
     </task>
     <servers />
   </component>
